@@ -13,7 +13,7 @@ Prominent holidays like the Super Bowl, Labour Day, Thanksgiving, and Christmas 
 2. Time Series Predictive modeling (Future Phase)
 
 
-**Dashboard Sample:** ![Dashboard Image](dashboard_example.png)
+**Dashboard Sample:** ![Dashboard Image](Images/dashboard_example.png)
 
 ---
 
