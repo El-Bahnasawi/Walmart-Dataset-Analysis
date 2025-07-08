@@ -1,6 +1,6 @@
 # Walmart Sales Forecasting 🛍️
 
-![Walmart Image](Wallmart1.jpg)
+![Walmart Image](Images/Wallmart1.jpg)
 
 **Description:** As one of the leading retail giants in the US, Walmart aims to accurately predict sales and demand. Events and holidays can affect daily sales. With 45 Walmart stores' sales data at hand, the challenge is dealing with unforeseen demands and stockouts due to less-than-optimal machine learning models. An ideal model should account for economic indicators like the CPI and Unemployment Index.
 
