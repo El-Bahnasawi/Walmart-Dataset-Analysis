@@ -32,4 +32,7 @@ def render(app: Dash) -> html.Div:
         return figure, dropdown_style, h5_style
     
     # Return the dcc.Graph component
-    return dcc.Graph(id=ids.BAR_CHART)
+    return dcc.Graph(
+        id=ids.BAR_CHART,
+        config={"responsive": True},
+    )
