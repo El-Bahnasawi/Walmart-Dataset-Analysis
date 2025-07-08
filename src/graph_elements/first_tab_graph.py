@@ -31,8 +31,18 @@ def render(app: Dash) -> html.Div:
         # Return updated chart and styles
         return figure, dropdown_style, h5_style
     
-    # Return the dcc.Graph component
-    return dcc.Graph(
+    return html.Div(
+    dcc.Graph(
         id=ids.BAR_CHART,
         config={"responsive": True},
-    )
+        style={
+            "width": "100%",
+            "height": "60vh",  # Takes 70% of vertical screen space
+        }
+    ),
+    style={
+        "width": "100%",
+        "height": "60vh",       # Outer div must define height
+        "padding": "10px",
+    }
+)
