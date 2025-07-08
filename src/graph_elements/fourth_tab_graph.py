@@ -6,13 +6,18 @@ from src.backend_code.data_loader import *
 
 
 def render(app: Dash) -> html.Div:
-    # Add controls to build the interaction
     @app.callback(
         Output(component_id=ids.FOURTH_TAB_CHART, component_property="figure"),
         Input(component_id=ids.FOURTH_TAB_RADIO_ITEMS, component_property='value'),
     )
-    
     def update_chart(selector: str):
         return prepare_visuals_for_dashboard(load_data(), selector)
 
-    return dcc.Graph(id=ids.FOURTH_TAB_CHART)
+    return html.Div(
+        dcc.Graph(
+            id=ids.FOURTH_TAB_CHART,
+            config={"responsive": True},
+            style={"width": "100%", "height": "60vh"}
+        ),
+        style={"width": "100%", "height": "60vh", "padding": "10px"}
+    )
