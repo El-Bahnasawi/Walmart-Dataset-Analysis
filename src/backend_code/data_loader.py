@@ -16,4 +16,6 @@ def load_data():
 
     df.drop("_merge", axis=1, inplace=True)
     df['Total_MarkDown'] = df[['MarkDown1', 'MarkDown2', 'MarkDown3', 'MarkDown4', 'MarkDown5']].sum(axis=1)
+
+#     df = df.sample(frac=0.5, random_state=42)
     return df
