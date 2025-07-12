@@ -7,8 +7,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow?logo=python)](https://www.python.org/)
 [![Dash](https://img.shields.io/badge/Built%20with-Plotly%20Dash-orange?logo=plotly)](https://plotly.com/dash/)
 
-> **Live Demo**: [walmart-dataset-analysis.onrender.com](https://walmart-dataset-analysis.onrender.com)
-
 An interactive dashboard exploring sales across Walmart stores and departments. Analyze store types, department performance, holiday effects, and more using machine learning clustering techniques.
 
 ## ✨ Features
