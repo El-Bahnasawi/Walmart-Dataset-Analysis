@@ -1,11 +1,12 @@
 # 🛒 Walmart Sales Dashboard
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-blueviolet?logo=vercel&labelColor=black)](https://walmart-dataset-analysis.onrender.com)
-[![Dataset](https://img.shields.io/badge/Data-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-blueviolet?logo=vercel&labelColor=black)](https://walmart-dash.vercel.app/)
+[![Dataset](https://img.shields.io/badge/Data-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/yasserh/walmart-sales-dataset)
 [![Deployment](https://img.shields.io/badge/Deployed-Render-success?logo=docker)](https://render.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow?logo=python)](https://www.python.org/)
 [![Dash](https://img.shields.io/badge/Built%20with-Plotly%20Dash-orange?logo=plotly)](https://plotly.com/dash/)
+[![Diagrams](https://img.shields.io/badge/Diagrams-Mermaid-blue?logo=mermaid)](https://mermaid.js.org/)
 
 An interactive dashboard exploring sales across Walmart stores and departments. Analyze store types, department performance, holiday effects, and more using machine learning clustering techniques.
 
