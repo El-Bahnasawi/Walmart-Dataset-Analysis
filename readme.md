@@ -77,10 +77,10 @@ Prominent holidays like the Super Bowl, Labour Day, Thanksgiving, and Christmas 
 
 ### 📈 Department Performance
 
-| Store Type              | Holiday Leader         | Non-Holiday Leader     | Notes                                               |
-| ----------------------- | ---------------------- | ---------------------- | --------------------------------------------------- |
-| across all store types       | Dept 72 🌟             | Dept 92 🧾             | Dept 72 shows a **major spike during holidays**     |
-| across all store types  | Dept 78 📉             | Dept 78 📉             | Consistently lowest-performing department           |
+| Holiday Leader         | Non-Holiday Leader     | Notes                                               |
+| ---------------------- | ---------------------- | --------------------------------------------------- |
+| Dept 72 🌟             | Dept 92 🧾             | Dept 72 shows a **major spike during holidays**     |
+| Dept 78 📉             | Dept 78 📉             | Consistently lowest-performing department           |
 
 ### Walmart Store Comparative Analysis:
 
