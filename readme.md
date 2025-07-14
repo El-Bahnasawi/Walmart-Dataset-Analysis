@@ -23,7 +23,6 @@ An interactive dashboard exploring sales across Walmart stores and departments. 
 
 | Layer           | Tools & Technologies                                               |
 |----------------|---------------------------------------------------------------------|
-| 👩‍💻 Language     | Python 3.9+                                                        |
 | 📊 Visualization | Plotly, Dash                                                      |
 | 🧠 ML Models     | Scikit-learn (KMeans, GMM), pandas, NumPy                          |
 | 🐋 Deployment    | Docker, Render                                                     |
