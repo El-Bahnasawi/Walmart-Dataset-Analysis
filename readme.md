@@ -72,15 +72,57 @@ Prominent holidays like the Super Bowl, Labour Day, Thanksgiving, and Christmas 
 **Acknowledgements:** The dataset originates from [Kaggle](https://www.kaggle.com/datasets/yasserh/walmart-dataset).
 
 ---
+## 📈 Department Sales Insights
 
-## 🏬 Store Type & Department Insights:
+Understanding department-level performance reveals hidden patterns in consumer behaviour, especially around holidays. The plots in the dashboard contrast holiday vs non-holiday sales and spotlight the five best and worst departments for each major event.
 
-### 📈 Department Performance
+### 🧾 Performance Overview (Top vs Bottom)
 
-| Holiday Leader         | Non-Holiday Leader     | Notes                                               |
-| ---------------------- | ---------------------- | --------------------------------------------------- |
-| Dept 72 🌟             | Dept 92 🧾             | Dept 72 shows a **major spike during holidays**     |
-| Dept 78 📉             | Dept 78 📉             | Consistently lowest-performing department           |
+| Metric | Holiday | Non-Holiday | Notes |
+|--------|---------|-------------|-------|
+| **Leader** | **Dept 92** 🔥 | **Dept 92** 📋 | Consistently #1, but Christmas sales (~48 k) dip vs 60 k+ on other holidays |
+| **Runner-ups** | 38, 95, 90 | 38, 95, 90 | Strong all-rounders, slightly holiday-weighted |
+| **Bottom-end** | 4, 96, 40 | 2, 96, 40 | Persistent low performers, minimal holiday uplift |
+
+### 🟠 Holiday vs Non-Holiday Highlights
+
+* **Dept 92 dominates** every timeframe; its Christmas revenue is still #1 but noticeably lower than its own Super Bowl/Thanksgiving peaks.  
+* **Depts 38 & 95** show robust, balanced sales, making them reliable revenue generators.  
+* **Depts 4, 2, 96, 40** hover at the tail regardless of season, signalling inventory or demand issues.
+
+
+### 🎯 Top-5 Departments Across Holidays
+
+| Holiday      | Rank #1 | Rank #2 | Rank #3 | Rank #4 | Rank #5 |
+|--------------|---------|---------|---------|---------|---------|
+| **Super Bowl** | 92 | 38 | 95 | 90 | 91 |
+| **Labor Day**  | 92 | 95 | 38 | 90 | 94 |
+| **Thanksgiving** | 92 | 90 | 95 | 38 | 94 |
+| **Christmas** | 92 | 38 | 95 | 90 | 94 |
+
+*Takeaway*: **Dept 92 is holiday-agnostic**—it leads every time. Depts 38 & 95 are close contenders, while Dept 90 jumps to #2 at Thanksgiving.
+
+### 🧊 Bottom-5 Departments Across Holidays
+
+| Holiday      | Lowest 5 Depts (worst → better) |
+|--------------|---------------------------------|
+| **Super Bowl** | 55, 44, 26, 49, 41 |
+| **Labor Day**  | 99, 41, 44, 24, 33 |
+| **Thanksgiving** | 22, 33, 26, 41, 20 |
+| **Christmas** | 44, 24, 49, 33, 34 |
+
+*Key Insight*: **Dept 44 appears in the bottom tier for all holidays**, suggesting chronic underperformance, whereas other laggards rotate by event.
+
+### 💡 Business Implications
+
+1. **Re-stock & price-optimise Dept 92** for Christmas—it under-delivers relative to its own holiday ceiling.  
+2. **Promote or diversify Depts 4, 2, 96, 40**; their demand is weak even in peak seasons.  
+3. **Investigate Dept 44** (bottom across all holidays) for assortment, placement, or pricing misalignment.  
+4. **Leverage Depts 38 & 95** as stable anchors in promotional bundles—they thrive in both routine and holiday periods.
+
+---
+## 📈 Store Sales Insights
+
 
 ### Walmart Store Comparative Analysis:
 
