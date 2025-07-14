@@ -123,39 +123,63 @@ Understanding department-level performance reveals hidden patterns in consumer b
 ---
 ## 📈 Store Sales Insights
 
+### Walmart Store Comparative Analysis
 
-### Walmart Store Comparative Analysis:
-
-| Features         | 🅰️ Supercenter                                              | 🅱️ Discount Store                                | 🅲 Neighborhood Market                               |
-|------------------|----------------------------------------------------------|------------------------------------------------|--------------------------------------------------|
-| **Founded In**   | 1988                                                     | 1962                                           | 1998                                               |
-| **Size**         | 182,000 sq ft                                            | 106,000 sq ft                                  | 38,000 sq ft                                       |
-| **Key Products** | Grocery, electronics, apparel, home decor, fresh produce | Electronics, apparel, home decor, health/beauty| Pharmacy, groceries, fresh produce, dairy, bakery |
-| **Unique Features**| 24/7 ops; Potential for banks, salons, etc.           | Spacious, well-lit ambiance                   | -                                                  |
+| Feature | 🅰️ **Supercenter** | 🅱️ **Discount Store** | 🅲 **Neighborhood Market** |
+|---------|--------------------|-----------------------|----------------------------|
+| **Opened** | 1988 | 1962 | 1998 |
+| **Avg. Size** | ~182 k sq ft | ~106 k sq ft | ~38 k sq ft |
+| **Core Offerings** | Grocery, electronics, apparel, home décor, fresh produce | Electronics, apparel, home décor, health/beauty | Pharmacy, groceries, fresh produce, dairy, bakery |
+| **Edge/Extras** | 24 / 7 ops • in-store banks, salons, etc. | Wide aisles + “big-box” feel | Convenience focus, community-oriented footprint |
 
 _[Source](https://corporate.walmart.com/about)_
 
-### 🏆 Store Performance Overview
 
-| Category                   | Stores               |
-| -------------------------- | -------------------- |
-| 🌟 **Top Performers**      | 20, 4, 14, 10, 2, 13 |
-| 🏈 **Super Bowl Leaders**  | 20, 4                |
-| 🇺🇸 **Labor Day Leaders** | 14, 20               |
-| 📉 **Lowest Performers**   | 33, 5                |
+### 🏆 Store-Level Performance Snapshot
 
-💡 **Insight**: Stores 20 and 14 appear **frequently across top event categories**, suggesting strong general and event-driven sales performance.
+| Metric | **All Types** (Best) | Type 🅰️ | Type 🅱️ | Type 🅲 |
+|--------|----------------------|---------|---------|--------|
+| **Overall Leader** | Store 20 🔥 | 20 🔥 | 10 🔥 | 43 🔥 |
+| **Holiday Star** | 20 → 4 → 14 → 10 → 2 → 13 | 20 & 4 | 10 & 23 | 43 & 42 |
+| **Non-Holiday Star** | 20 → 4 → 14 → 13 | 20 & 4 | 10 & 23 | 43 & 42 |
+| **Chronic Laggards** | 33, 5, 3, 44 | 39 & 19 | 45 & 25 | 38 & 44 |
+
+**Key takeaways**
+
+1. **Store 20** (Type A) dominates every timeframe—think of it as the *benchmark Supercenter*.
+2. **Store 10** is the clear winner inside Type B, but still trails the A-class giants by ~5–7 k weekly.
+3. **Store 43** punches way above its Type C weight, often matching mid-tier Type B stores.
+4. **Stores 33, 5, 3, 44** appear in *every* bottom-five list—prime candidates for inventory revamp or strategic relocation.
+
+### 🏪 Store-Type Distribution vs. Revenue
+
+| Store Type | % of Locations | % of Avg Weekly Sales | Holiday Sensitivity |
+|------------|----------------|-----------------------|---------------------|
+| **A** | 51.2 % | 48 % | Mild Thanksgiving dip, quickly recovers |
+| **B** | 38.7 % | 29.3 % | Broad but lower-yield footprint |
+| **C** | 10.1 % | 22.7 % | Over-indexed on regular weeks; slips ≈5 pp on peak holidays |
+
+💡 **Insight:** Even though Type C stores represent just **one in ten** locations, they generate nearly a **quarter of weekly revenue**—proof that small formats can deliver high ROI when positioned well.
 
 
-### 🏪 Store Type Distribution Summary
+### 🎯 Event-Driven Highlights
 
-| Store Type | % of All Stores | Avg Weekly Sales Contribution | Thanksgiving Dip |
-|------------|------------------|-------------------------------|------------------|
-| Type A     | 51.2%            | 48%                           | –                |
-| Type B     | 38.7%            | 29.3%                         | –                |
-| Type C     | 10.1%            | 22.7%                         | Drops to 17%     |
+| Holiday | Top Store(s) | Notable Insight |
+|---------|--------------|-----------------|
+| **Super Bowl** | 20, 4, 10 | Type A heavily leveraged; Type B’s Store 10 breaks into top 3 |
+| **Labor Day** | 14, 20, 4 | Outdoor & DIY skew lifts Store 14 |
+| **Thanksgiving** | 10, 14, 20 | Food-centric lifts let Type B play ball |
+| **Christmas** | 20, 4, 14 | Overall sales drop ~10 % vs. other holidays, but rankings hold |
 
-**💡 Note:** Despite making up only 10.1% of all stores, **Type C** stores punch above their weight in weekly sales, though their performance dips slightly during major holidays.
+
+### 🚀 Business Actions (P1 Skeptic-to-Builder View)
+
+1. **Scale the Store 20 playbook**—its layout, staffing, and promo cadence clearly resonate.
+2. **Boost Type C holiday readiness**; a 5 pp share loss is real money left on the table.
+3. **Run targeted pilots in Stores 33/5/3/44**; either turn them around or repurpose the floor space.
+4. **Monitor Store 10** as a Type B lighthouse; lessons learned there could up-lift the entire class.
+
+*Encourage curiosity, validate with A/Bs, and never assume today’s champion is tomorrow’s winner.* 😉
 
 ---
 
