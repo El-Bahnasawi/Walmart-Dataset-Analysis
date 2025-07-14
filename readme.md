@@ -1,7 +1,7 @@
 # 🛒 Walmart Sales Dashboard
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-blueviolet?logo=vercel&labelColor=black)](https://walmart-dash.vercel.app/)
-[![Dataset](https://img.shields.io/badge/Data-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/yasserh/walmart-sales-dataset)
+[![Live Demo](https://img.shields.io/badge/Demo-Render-blueviolet?logo=render&labelColor=black)](https://walmart-dataset-analysis.onrender.com/)
+[![Dataset](https://img.shields.io/badge/Data-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
 [![Deployment](https://img.shields.io/badge/Deployed-Render-success?logo=docker)](https://render.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow?logo=python)](https://www.python.org/)
